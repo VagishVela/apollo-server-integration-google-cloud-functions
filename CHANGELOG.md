@@ -1,5 +1,18 @@
 # @as-integrations/google-cloud-functions
 
+## [0.2.1](https://github.com/apollo-server-integrations/apollo-server-integration-google-cloud-functions/compare/v0.2.0...v0.2.1) (2023-07-27)
+
+
+### 🧹 Miscellaneous
+
+* **deps:** update all non-major dependencies ([#35](https://github.com/apollo-server-integrations/apollo-server-integration-google-cloud-functions/issues/35)) ([fc3e2d0](https://github.com/apollo-server-integrations/apollo-server-integration-google-cloud-functions/commit/fc3e2d09aa3631bcaccf382407c6f280a09042bb))
+* **deps:** update dependency @apollo/utils.withrequired to v3 ([#25](https://github.com/apollo-server-integrations/apollo-server-integration-google-cloud-functions/issues/25)) ([f29a2e6](https://github.com/apollo-server-integrations/apollo-server-integration-google-cloud-functions/commit/f29a2e62d667a479b4f90c16cb458cae19c7798b))
+* **deps:** update dependency @types/jest to v29.5.3 ([#26](https://github.com/apollo-server-integrations/apollo-server-integration-google-cloud-functions/issues/26)) ([80350cf](https://github.com/apollo-server-integrations/apollo-server-integration-google-cloud-functions/commit/80350cff03c9c6c69b58484fe9012d32c76d98cb))
+* **deps:** update dependency dotenv-cli to v7 ([#30](https://github.com/apollo-server-integrations/apollo-server-integration-google-cloud-functions/issues/30)) ([2314e62](https://github.com/apollo-server-integrations/apollo-server-integration-google-cloud-functions/commit/2314e629448d711e28e9956da7bf8fa6ad390189))
+* **deps:** update dependency jest-junit to v16 ([#24](https://github.com/apollo-server-integrations/apollo-server-integration-google-cloud-functions/issues/24)) ([4037ecc](https://github.com/apollo-server-integrations/apollo-server-integration-google-cloud-functions/commit/4037ecc9a6e92f1a2f1e3a8507c53631686c720c))
+* **deps:** update dependency rimraf to v5 ([#23](https://github.com/apollo-server-integrations/apollo-server-integration-google-cloud-functions/issues/23)) ([b3c3c90](https://github.com/apollo-server-integrations/apollo-server-integration-google-cloud-functions/commit/b3c3c909903347db6df9300368d508f7aff86fc8))
+* **deps:** update dependency typescript to v5 ([#21](https://github.com/apollo-server-integrations/apollo-server-integration-google-cloud-functions/issues/21)) ([e56e79f](https://github.com/apollo-server-integrations/apollo-server-integration-google-cloud-functions/commit/e56e79f75165317ac1912b20d0596426cc8f768a))
+
 ## [0.2.0](https://github.com/apollo-server-integrations/apollo-server-integration-google-cloud-functions/compare/v0.1.5...v0.2.0) (2023-07-27)
 
 
